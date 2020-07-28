@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://irmoodie.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "The Personal Website of Iain R. Moodie"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
@@ -14,16 +14,16 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "I'm Jane Doe"
-author = "Jane Doe"
-description = "Call me Jane"
+title = "Iain R Moodie"
+author = "I.R. Moodie"
+description = "Master's student studying Evolutionary Biology."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 customCss = []
 customJs = []
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+images = []
 
 ## Math settings
 [params.math]
@@ -32,24 +32,14 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 [[params.socialIcons]]
-icon = "fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
-
-[[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[params.socialIcons]]
-icon = "fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+url = "https://github.com/irmoodie"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "mailto:irm00014@students.stir.ac.uk"
 
 ## Menu items
 
@@ -62,13 +52,25 @@ url = "mailto:mail@alexbilz.com"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 200
   identifier = "about"
   url = "/about/"
+  
+#  [[menu.main]]
+#  name = "Research"
+#  weight = 300
+#  identifier = "research"
+#  url = "/research/"
+  
+#  [[menu.main]]
+#  name = "CV"
+#  weight = 400
+#  identifier = "cv"
+#  url = "/irmoodiecv.pdf/"
+  
+  [[menu.main]]
+  name = "Archive"
+  weight = 500
+  identifier = "posts"
+  url = "/post/"
