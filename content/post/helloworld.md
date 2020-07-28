@@ -9,7 +9,7 @@ DisableComments: true
 
 Hello!
 
-I figured I should update my personal site, partially as the old one had broken during a theme update, but also as a lot of exciting things are happening! Updates coming soon.
+I figured I should update my personal site, partly as the old one had broken during a theme update, but also as a lot of exciting things are happening! Updates coming soon.
 
 Iain
 
