@@ -1,3 +1,3 @@
-A hugo generated static site.
+# My Personal Website
 
-Can be found at irmoodie.com
+A static site generated with Hugo and found at [irmoodie.com](irmoodie.com).
