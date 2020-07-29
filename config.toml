@@ -14,7 +14,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 [params]
-title = "Iain R Moodie"
+title = "Iain R. Moodie"
 author = "I.R. Moodie"
 description = "Master's student studying Evolutionary Biology."
 uniCurrent = "Uppsala University, Sweden."
