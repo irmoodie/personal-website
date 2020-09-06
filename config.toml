@@ -35,14 +35,15 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 [[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/irmoodie"
+
+[[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
 url = "https://github.com/irmoodie"
 
-[[params.socialIcons]]
-icon = "fa-envelope"
-title = "e-mail"
-url = "mailto:irm00014@students.stir.ac.uk"
 
 ## Menu items
 
