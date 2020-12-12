@@ -63,7 +63,7 @@ url = "https://github.com/irmoodie"
 #  url = "/about/"
   
   [[menu.main]]
-  name = "Research Interests"
+  name = "Research"
   weight = 200
   identifier = "research"
   url = "/research/"
@@ -81,7 +81,7 @@ url = "https://github.com/irmoodie"
   url = "/irmoodiecv.pdf/"
   
   [[menu.main]]
-  name = "Blog Posts"
+  name = "Blog"
   weight = 500
   identifier = "posts"
   url = "/post/"
