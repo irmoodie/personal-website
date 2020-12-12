@@ -26,6 +26,7 @@ favicon = "favicons/"
 customCss = []
 customJs = []
 mainSections = ["post"]
+doNotLoadAnimations = true
 images = []
 
 ## Math settings
@@ -55,26 +56,32 @@ url = "https://github.com/irmoodie"
   weight = 100
   url = "/"
 
+#  [[menu.main]]
+#  name = "About"
+#  weight = 200
+#  identifier = "about"
+#  url = "/about/"
+  
   [[menu.main]]
-  name = "About"
+  name = "Research Interests"
   weight = 200
-  identifier = "about"
-  url = "/about/"
-  
-#  [[menu.main]]
-#  name = "Research"
-#  weight = 300
-#  identifier = "research"
-#  url = "/research/"
-  
-#  [[menu.main]]
-#  name = "CV"
-#  weight = 400
-#  identifier = "cv"
-#  url = "/irmoodiecv.pdf/"
+  identifier = "research"
+  url = "/research/"
   
   [[menu.main]]
-  name = "Archive"
+  name = "Portfolio"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
+  
+  [[menu.main]]
+  name = "CV"
+  weight = 400
+  identifier = "cv"
+  url = "/irmoodiecv.pdf/"
+  
+  [[menu.main]]
+  name = "Blog Posts"
   weight = 500
   identifier = "posts"
   url = "/post/"
