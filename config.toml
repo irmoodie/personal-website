@@ -78,7 +78,7 @@ url = "https://github.com/irmoodie"
   name = "CV"
   weight = 400
   identifier = "cv"
-  url = "/irmoodiecv.pdf/"
+  url = "/irmoodiecv.pdf"
   
   [[menu.main]]
   name = "Blog"
