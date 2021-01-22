@@ -6,4 +6,4 @@ aliases = ["research"]
 author = "I.R. Moodie"
 +++
 
-Temporarily removed as something broke :(
+
