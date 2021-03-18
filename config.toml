@@ -62,23 +62,23 @@ url = "https://github.com/irmoodie"
 #  identifier = "about"
 #  url = "/about/"
   
-  [[menu.main]]
-  name = "Research"
-  weight = 200
-  identifier = "research"
-  url = "/research/"
+#  [[menu.main]]
+#  name = "Research"
+#  weight = 200
+#  identifier = "research"
+#  url = "/research/"
   
-  [[menu.main]]
-  name = "Portfolio"
-  weight = 300
-  identifier = "portfolio"
-  url = "/portfolio/"
+#  [[menu.main]]
+#  name = "Portfolio"
+#  weight = 300
+#  identifier = "portfolio"
+#  url = "/portfolio/"
   
   [[menu.main]]
   name = "CV"
   weight = 400
   identifier = "cv"
-  url = "/irmoodiecv.pdf"
+  url = "/irmoodie_cv.pdf"
   
   [[menu.main]]
   name = "Blog"
