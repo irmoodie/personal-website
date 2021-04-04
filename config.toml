@@ -71,11 +71,11 @@ url = "https://scholar.google.com/citations?user=Z219LMIAAAAJ&hl=en"
 #  identifier = "about"
 #  url = "/about/"
   
-#  [[menu.main]]
-#  name = "Research"
-#  weight = 200
-#  identifier = "research"
-#  url = "/research/"
+  [[menu.main]]
+  name = "Research"
+  weight = 200
+  identifier = "research"
+  url = "/research/"
   
 #  [[menu.main]]
 #  name = "Portfolio"
