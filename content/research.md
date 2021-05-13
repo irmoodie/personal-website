@@ -7,6 +7,13 @@ author = "I.R. Moodie"
 
 +++
 
+## Experimental Evolution of the Temperature Niche
+
+By combining classical ecological and metabolic models with empirical data from experimental evolution approaches, I seek to understand
+how the temperature niche evolves and if any such changes trade-off with other life-history traits. By utilising temperature selected lines of protist species, I extract abundance, behaviour and morphology data from selection lines exposed to a wide range of assay temperatures. From this, I fit growth models and use estimates of r and K to fit mechanistic temperature niche models for each selection line. I am undertaking this project with [Emanuel Fronhofer](https://www.emanuelfronhofer.net/) at [ISEM](https://isem-evolution.fr/) as part of my studies at the University of Montpellier.
+
+![TempNiche](/images/tempniche.jpg)
+
 ## The ENDORSE Project
 
 For my undergraduate dissertation, I conducted an experiment that aimed to quantify and assess the adaptive significance of the behaviour of an agricultural pest (*Helicoverpa armigera*) post-inoculation of a fungal bio-pesticide. I developed a method of accurately measuring the quantity of food consumed by an individual larvae, allowing me to model both survival and changes in food intake (infection induced anorexia) over time with the strength of bio-pesticide application. This work was imbedded within and highly complimented the ongoing ENhancing Diversity to Overcome ReSistance Evolution ([ENDORSE](https://enhancingdiversity.wixsite.com/endorse)) project at the University of Stirling

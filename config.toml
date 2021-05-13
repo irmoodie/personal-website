@@ -17,7 +17,7 @@ enableRobotsTXT = true
 title = "Iain R. Moodie"
 author = "I.R. Moodie"
 description = "Master's student studying Evolutionary Biology."
-uniCurrent = "Université de Montpellier, France"
+uniCurrent = "Institut des Sciences de l'Évolution de Montpellier, France"
 profilePicture = "images/profile.jpg"
 #photoCredit = "Declan Caveney"
 #photoCrediturl = "https://deccav.com"
@@ -83,11 +83,11 @@ url = "https://scholar.google.com/citations?user=Z219LMIAAAAJ&hl=en"
 #  identifier = "portfolio"
 #  url = "/portfolio/"
   
-  [[menu.main]]
-  name = "CV"
-  weight = 400
-  identifier = "cv"
-  url = "/irmoodie_cv.pdf"
+#  [[menu.main]]
+#  name = "CV"
+#  weight = 400
+#  identifier = "cv"
+#  url = "/irmoodie_cv.pdf"
   
   [[menu.main]]
   name = "Blog"
